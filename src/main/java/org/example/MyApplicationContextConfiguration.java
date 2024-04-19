@@ -1,5 +1,6 @@
 package org.example;
 
+import com.mysql.cj.jdbc.MysqlDataSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
